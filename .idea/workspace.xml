@@ -114,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="bootstrap.css hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap.css hinzugefügt" />
+    <MESSAGE value="bootstrap.css hinzugefügt&#10;alle Rezepte in cards gesteckt und originale auskommentiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap.css hinzugefügt&#10;alle Rezepte in cards gesteckt und originale auskommentiert" />
   </component>
 </project>
