@@ -5,9 +5,13 @@
      min-height: max-content;
      height: 600px;
  }
+ 
  #Rezepte {
-      display: flex;
-      grid-template-columns: 25% 25% 25% 25% ;
-      grid-auto-rows: 1fr;
-
+     display: flex;
+     grid-template-columns: 25% 25% 25% 25%;
+     grid-auto-rows: 1fr;
+ }
+ 
+ h1 {
+     font-family: 'Lobster', cursive, serif;
  }
