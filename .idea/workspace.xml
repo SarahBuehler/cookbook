@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcaf6017-e664-4ccf-8932-03a3148ebdd4" name="Changes" comment="Test navbar eingefügt&#10;dropdown entfernt&#10;search behalten?&#10;jumbo integriert">
-      <change afterPath="$PROJECT_DIR$/auskommentierterCode" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="bcaf6017-e664-4ccf-8932-03a3148ebdd4" name="Changes" comment="Code gesäubert und das auskommentierte in txt extrahiert für später!">
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <workItem from="1654690954567" duration="1556000" />
       <workItem from="1654699050189" duration="2023000" />
       <workItem from="1654703466265" duration="18000" />
-      <workItem from="1654779148267" duration="1934000" />
+      <workItem from="1654779148267" duration="2170000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap.css hinzugefügt">
       <created>1654690372735</created>
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654780072775</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Code gesäubert und das auskommentierte in txt extrahiert für später!">
+      <created>1654781334077</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654781334077</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +138,7 @@
     <MESSAGE value="bootstrap.css hinzugefügt" />
     <MESSAGE value="bootstrap.css hinzugefügt&#10;alle Rezepte in cards gesteckt und originale auskommentiert" />
     <MESSAGE value="Test navbar eingefügt&#10;dropdown entfernt&#10;search behalten?&#10;jumbo integriert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test navbar eingefügt&#10;dropdown entfernt&#10;search behalten?&#10;jumbo integriert" />
+    <MESSAGE value="Code gesäubert und das auskommentierte in txt extrahiert für später!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code gesäubert und das auskommentierte in txt extrahiert für später!" />
   </component>
 </project>
