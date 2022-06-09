@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcaf6017-e664-4ccf-8932-03a3148ebdd4" name="Changes" comment="">
+    <list default="true" id="bcaf6017-e664-4ccf-8932-03a3148ebdd4" name="Changes" comment="Test navbar eingefügt&#10;dropdown entfernt&#10;search behalten?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,8 @@
       <workItem from="1654689398530" duration="1555000" />
       <workItem from="1654690954567" duration="1556000" />
       <workItem from="1654699050189" duration="2023000" />
+      <workItem from="1654703466265" duration="18000" />
+      <workItem from="1654779148267" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap.css hinzugefügt">
       <created>1654690372735</created>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654690981472</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test navbar eingefügt&#10;dropdown entfernt&#10;search behalten?">
+      <created>1654702609144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654702609144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
