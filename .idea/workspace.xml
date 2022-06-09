@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcaf6017-e664-4ccf-8932-03a3148ebdd4" name="Changes" comment="Neuer container">
+    <list default="true" id="bcaf6017-e664-4ccf-8932-03a3148ebdd4" name="Changes" comment="neues logo in der navbar&#10;sarahs css änderung">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="romano-finished" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654783974641</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="neues logo in der navbar&#10;sarahs css änderung">
+      <created>1654784278171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654784278171</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +162,7 @@
     <MESSAGE value="Code gesäubert und das auskommentierte in txt extrahiert für später!" />
     <MESSAGE value="Code gesäubert und das auskommentierte in txt extrahiert für später!&#10;neues grid für cards&#10;ofenschlübber sind wieder am start" />
     <MESSAGE value="Neuer container" />
-    <option name="LAST_COMMIT_MESSAGE" value="Neuer container" />
+    <MESSAGE value="neues logo in der navbar&#10;sarahs css änderung" />
+    <option name="LAST_COMMIT_MESSAGE" value="neues logo in der navbar&#10;sarahs css änderung" />
   </component>
 </project>
