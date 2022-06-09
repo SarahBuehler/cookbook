@@ -2,5 +2,6 @@
      background-image: url(img/bkgimg.jpg);
      background-repeat: no-repeat;
      background-size: 100% auto;
+     min-height: max-content;
      height: 600px;
  }
