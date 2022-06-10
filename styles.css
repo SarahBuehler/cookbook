@@ -17,10 +17,13 @@
  }
  
  body {
-     background-color: #CCC;
+     background-color: #EAEAEA;
  }
  
  main {
      height: 100%;
  }
-
+ 
+ .container {
+     background-color: #CCC;
+ }
